@@ -228,8 +228,9 @@ Contributions are welcome!
 
 | Name | Role | GitHub |
 |---|---|---|
-| *Your Name* | *Role* | [@username](https://github.com/username) |
-| *Teammate* | *Role* | [@username](https://github.com/username) |
+| *R. Ashwin Kumar* | *Leader* | [@Ashhh2906
+]([https://github.com/username](https://github.com/Ashhh2906)) |
+| *Rehan Hasan* |  *Progammer* | [@Rehanhsn](https://github.com/rehanhsn) |
 
 ---
 
