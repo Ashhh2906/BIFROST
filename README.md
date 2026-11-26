@@ -419,8 +419,12 @@ Keyboard navigation everywhere · visible focus states · ARIA roles on progress
 
 | Name | Role | GitHub |
 |---|---|---|
-| *Your Name* | *Role* | [@username](https://github.com/username) |
-| *Teammate* | *Role* | [@username](https://github.com/username) |
+| *R. Ashwin Kumar* | *leader* | [@Ashhh2906
+](https://github.com/Ashhh2906
+) |
+| *Rehan Hasan* | *Developer* | [@Rehanhsn](https://github.com/Rehanhsn) |
+| *Pragati Joshi* | *researcher* |
+
 
 <br>
 
