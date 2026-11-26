@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Roommate Finder — Asymmetric Compatibility &amp; Conflict Timeline</title>
+    <script>
+      try {
+        const raw = localStorage.getItem('roommateFinder:v1');
+        if (raw) {
+          const parsed = JSON.parse(raw);
+          if (parsed && parsed.theme === 'dark') {
+            document.documentElement.classList.add('dark');
+          }
+        } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          document.documentElement.classList.add('dark');
+        }
+      } catch (e) {
+        // Ignore storage access errors
+      }
+    </script>
+    <script type="module" crossorigin src="/assets/index-BDECAIq5.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-CpB70QJ0.css">
+  </head>
+  <body class="bg-slate-50 text-slate-900 antialiased dark:bg-slate-950 dark:text-slate-100">
+    <div id="root"></div>
+  </body>
+</html>
